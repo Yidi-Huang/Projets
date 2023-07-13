@@ -7,3 +7,6 @@
 [submodule "M1S2/etude_topics_nouvelles_2022_leMonde"]
 	path = M1S2/etude_topics_nouvelles_2022_leMonde
 	url = https://gitlab.com/XINHAO-ZHANG/ppe2_chz.git
+[submodule "M1S2/etude_reformulation_mot"]
+	path = M1S2/etude_reformulation_mot
+	url = https://github.com/jmasSN/reformulation.git
