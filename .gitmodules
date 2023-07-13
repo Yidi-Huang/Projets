@@ -1,0 +1,9 @@
+[submodule "M1S1/analyse_3_langues_mots"]
+	path = M1S1/analyse_3_langues_mots
+	url = https://github.com/Yidi-Huang/PPE_projet
+[submodule "M1S2/etude_reformulation_exemple"]
+	path = M1S2/etude_reformulation_exemple
+	url = https://github.com/jmasSN/reformulation.git
+[submodule "M1S2/etude_topics_nouvelles_2022_leMonde"]
+	path = M1S2/etude_topics_nouvelles_2022_leMonde
+	url = https://gitlab.com/XINHAO-ZHANG/ppe2_chz.git
